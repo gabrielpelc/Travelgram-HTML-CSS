@@ -1,0 +1,26 @@
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  margin-block: 24px;
+}
+
+.photo-grid img {
+  width: 286px;
+  height: auto;
+}
+
+footer {
+  padding-block: 24px;
+  line-height: 150%;
+}
+
+.container {
+  display: flex;
+}
+
+.footer-right {
+  margin-left: auto;
+  display: flex;
+  gap: 20px;
+}
